@@ -8,11 +8,15 @@ Meiliana Oktaviani
 
 Alfin Munir
 
+
+
 **Game Programmer**
 
 Fahreza Ramadhan
 
 Anandito
+
+
 
 **Game Artist**
 
