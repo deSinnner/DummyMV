@@ -8,3 +8,4 @@ The background of this game is inspired by “*Cirendeu Village*” in West Java
 
 
 ![https3A2F2Fprod-files-secure](https://github.com/deSinnner/DummyMV/assets/114314835/344d0f9a-6613-4ebe-85df-bc27841582f5)
+![image](https://github.com/deSinnner/DummyMV/assets/114314835/04449cc0-f51e-457f-bd1d-f22fa10eb3e1)
