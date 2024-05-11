@@ -5,4 +5,6 @@ Capstone Project IL - Group 3 CAPU STUDIO
 
 The background of this game is inspired by “*Cirendeu Village*” in West Java, which is famous for it’s traditional and mystical things. The art will have a great influence of West Java culture and art while having a Anime and Chibi art style to make it more modern and to attract more attention and likeness of current teenager taste
 
-![Uploading image.png…]()
+
+
+![https3A2F2Fprod-files-secure](https://github.com/deSinnner/DummyMV/assets/114314835/344d0f9a-6613-4ebe-85df-bc27841582f5)
