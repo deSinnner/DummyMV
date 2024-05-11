@@ -1,5 +1,27 @@
 Capstone Project IL - Group 3 CAPU STUDIO
 
+Team :
+
+Game Designer 
+
+**Meiliana Oktaviani
+
+Alfin Munir**
+
+Game Programmer
+
+**Fahreza Ramadhan
+
+Anandito**
+
+Game Artist
+
+**Meiliana Oktaviani**
+
+Sound Designer & Video Editor
+**
+Widisa Adi**
+
 ---- GAME OVERVIEW ----
 
 2D platformer adventure game about a girl who lives in a village,That girl’s name is Kinanti. One day, she felt something strange was happening in her village and found out that all the villager are missing. There is also unusual strange fog around her village that makes everything dark and gloomy. She decided to investigate the mystery of the fog on her village while also tries to find the missing villagers.
