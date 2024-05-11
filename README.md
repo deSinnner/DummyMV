@@ -2,25 +2,26 @@ Capstone Project IL - Group 3 CAPU STUDIO
 
 Team :
 
-Game Designer 
+**Game Designer** 
 
-**Meiliana Oktaviani
+Meiliana Oktaviani
 
-Alfin Munir**
+Alfin Munir
 
-Game Programmer
+**Game Programmer**
 
-**Fahreza Ramadhan
+Fahreza Ramadhan
 
-Anandito**
+Anandito
 
-Game Artist
+**Game Artist**
 
-**Meiliana Oktaviani**
+Meiliana Oktaviani
 
-Sound Designer & Video Editor
-**
-Widisa Adi**
+**Sound Designer & Video Editor**
+
+Widisa Adi
+
 
 ---- GAME OVERVIEW ----
 
