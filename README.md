@@ -6,15 +6,13 @@ Team :
 
 Meiliana Oktaviani
 
-Alfin Munir
+Anandito
 
 
 
 **Game Programmer**
 
 Fahreza Ramadhan
-
-Anandito
 
 
 
